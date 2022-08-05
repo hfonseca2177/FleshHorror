@@ -61,7 +61,11 @@ Thumbs.db.meta
 # Mac
 *.DS_Store
 
-Art/
+Art/Animation
+Art/Decals
+Art/Environment
+Art/Lights
+Art/Props
 Audio/
 Characters/
 Collections/
